@@ -9,6 +9,6 @@ RTC and screensharing that can be recorded and shared.
 A way for employees to propose ideas to management annonymously.
 No idea how to make money on this.
 
-# Nag - Productivity "tool"
+# Mom - Productivity "tool"
 A tool (web or desktop) to motivate you to continue work on a project
 by positive and negative reminders.
