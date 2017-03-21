@@ -1,3 +1,8 @@
+# Mobile walkie-talkie app
+Have persistent connections to people to quickly vocally communicate with
+people on a friends list.  Adding a friend can be done via email, or with some
+kind of handshaking procedure when two devices are in close proximitiy.
+
 # Tutoring / Teaching.
 Find and hire tutors for any subject, academic or not.
 RTC and screensharing that can be recorded and shared.
